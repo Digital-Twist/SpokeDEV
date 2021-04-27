@@ -138,7 +138,7 @@
     "react-router-redux": "^4.0.5",
     "react-select": "^2.0.0",
     "react-tap-event-plugin": "^2.0.0",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "redux": "^3.7.2",
     "redux-thunk": "^2.1.0",
     "request": "^2.81.0",
